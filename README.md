@@ -4,7 +4,7 @@
 [![Youtube](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.youtube.com/channel/UCyJhVjtFHyzDmb8-5J_rbjw)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/wAqD2AuPag)
 
-![Zetra GitHub stats](https://github-readme-stats.vercel.app/api?username=Zetra-YX&show_icons=true&theme=dracula)
+![Zetra GitHub stats](https://github-readme-stats.vercel.app/api?username=Zetra-YX&show_icons=true&theme=dracula&locale=pt-br)
 
 ## 📌 Até então só sei isso 🐴
 
@@ -13,12 +13,11 @@
 <img align="center" alt="python" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 <img align="center" alt="javas" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-<img align="center" alt="types" src="	https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img align="center" alt="types" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <img align="center" alt="lua" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 <img align="center" alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </div><br/>
 
 ### 🦸🏻 DEUS SALVE A AMERICA 🌎
 
-[![zetra.png](https://i.postimg.cc/mr0dSXN0/zetra.png)](https://postimg.cc/Y4zfrxP3)
 
